@@ -26,7 +26,7 @@ pip install -r requirements.txt
    git clone https://example.com/your-repository.git
 
 2. **Install dependencies:**
-    # run 
+    ```bash 
     pip install -r requirements.txt
 
 3. **run the application:**
