@@ -30,5 +30,6 @@ pip install -r requirements.txt
     pip install -r requirements.txt
 
 3. **run the application:**
+   ```bash 
     python main.py
 
