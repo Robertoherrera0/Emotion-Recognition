@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
    ```bash
-https://github.com/Robertoherrera0/Emotion-Recogniton/blob/main/README.md?plain=1
+   https://github.com/Robertoherrera0/Emotion-Recogniton/blob/main/README.md?plain=1
 
 2. **Install dependencies:**
     ```bash 
